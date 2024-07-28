@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Administrador de tareas</string>
+    <string name="add_task">Add Task</string>
+    <string name="task_name">Task Name</string>
+    <string name="task_date">Task Date</string>
+    <string name="task_category">Task Category</string>
+    <string name="save_task">Save Task</string>
+    <string name="category_name">Category Name</string>
+    <string name="save_category">Save Category</string>
+    <string name="add_category">Add Category</string>
+
+</resources>
